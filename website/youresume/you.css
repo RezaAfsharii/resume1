@@ -1,0 +1,40 @@
+
+
+body{
+    background-image: url("10.png");
+    background-size: cover;
+    text-align: center;
+}
+     
+/*h2{
+    color:black;
+    background-color: silver;
+    padding: 50px;
+    text-align:center;
+}*/
+
+           
+table{
+    width: 100%;
+    border-collapse:separate;
+    border-spacing: 5px;
+}
+
+        
+table,td{
+    border:2px solid  black;
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+input{
+    border-radius: 8px;
+}
+.colormode{
+    background-image: url("13.png");
+    background-size: cover;
+}
+
+       
+   
